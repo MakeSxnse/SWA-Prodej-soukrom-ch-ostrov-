@@ -1,0 +1,60 @@
+ČÁST 1: CIVILNÍ OBLEČENÍ (Normální oblečení)
+Scéna 1: Před bránou areálu
+
+Vizuál: Pohled na hlídaný vstup. Betonové zátarasy, rezavá brána a cedule „Vstup na vlastní nebezpečí“.
+
+Cíl: Otevřít bránu.
+
+Akce: Prohledáš starou plechovou skříňku u závory. Najdeš tam univerzální klíč nebo štípačky.
+
+Scéna 2: Dvůr před panelákem
+
+Vizuál: Stojíš přímo před vchodem. Rozbitý asfalt, v pozadí vrak starého auta, panelák se tyčí nad tebou.
+
+Cíl: Najít vstup do suterénu.
+
+Akce: Hlavní vchod je zavařený. Musíš najít boční cestu přes sklepní okénko nebo nákladovou rampu.
+
+Scéna 3: Sklad Civilní obrany (Suterén)
+
+Vizuál: Malá místnost v suterénu. Regály se starým vybavením. Na věšáku visí tvůj protiradiační komplet.
+
+Zlomový moment (SKOK): Klikneš na oblek.
+
+Efekt: Zvuk zipu, dech, černá obrazovka. Změna postavy na verzi v obleku + UI masky.
+
+ČÁST 2: V OBLEKU (Zamořená zóna)
+Scéna 4: Chodba u výtahů (Přízemí)
+
+Vizuál: Temná hala v přízemí. Špína, prach, všechno je šedé.
+
+Cíl: Zprovoznit dozimetr.
+
+Akce: Na recepci (v kukani) leží dozimetr. Jakmile ho sebereš, začne to v UI praskat. Zjistíš, že schody jsou jedinou cestou nahoru.
+
+Scéna 5: Temné schodiště
+
+Vizuál: Pohled do patra. Tma.
+
+Mechanika: Tady poprvé použiješ baterku. Musíš najít cestu skrze barikádu z harampádí, kterou tam někdo naskládal.
+
+Scéna 6: Chodba v 5. patře
+
+Vizuál: Dlouhá chodba s byty. U bytu č. 4 jsou stěny pokryté divným šedým nánosem.
+
+Hádanka: Dveře jsou na kódový zámek. Kód je vyškrábaný na stěně v minulé scéně (nebo ho musíš vyluštit ze starého letáku na zemi).
+
+ČÁST 3: FINÁLE (Byt č. 4)
+Scéna 7: Interiér bytu (Kuchyně/Obývák)
+
+Vizuál: Chaos. Kabely se táhnou po podlaze jako hadi a mizí v ložnici.
+
+Akce: Musíš najít dokument (vysvětlení děje) a pojistku, abys mohl spustit terminál v další místnosti.
+
+Scéna 8: Pokoj s vysílačem (Konec)
+
+Vizuál: Místnost plná elektroniky. Dominantou je velký blikající stroj u okna.
+
+Hádanka: Poslední interakce – vypnutí stroje.
+
+Závěr: Zvuk utichnutí dozimetru, sundání masky, titulky.
