@@ -5,4 +5,8 @@
 <p>Leonardo.ai (generování pozadí a postav)</p>
 <p>Další potřebné techlogie postupně aktualizuji, teď ještě nevím, co se mi bude hodit</p>
 
-<h3>Scénář hry se nachází v <b>scénář.txt</b></h3>
+<h3>15.4. 2026</h3>
+<h4>Co jsem dnes udělal:</h4>
+<p> - dodělal pozadí pro celou hru + texty (vše se nachází na figmě, viz. odkaz níže.)</p>
+<p> - research pro postup práce v next.js</p>
+<p> - Figma k projektu: https://www.figma.com/design/y6Vp7nir8CRYZY87sWV6sQ/Polda?node-id=7-82&t=196hTMxV7uMNjRnd-0</p>
