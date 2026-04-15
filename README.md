@@ -5,6 +5,8 @@
 <p>Leonardo.ai (generování pozadí a postav)</p>
 <p>Další potřebné techlogie postupně aktualizuji, teď ještě nevím, co se mi bude hodit</p>
 
+
+
 <h3>15.4. 2026</h3>
 <h4>Co jsem dnes udělal:</h4>
 <p> - dodělal pozadí pro celou hru + texty (vše se nachází na figmě, viz. odkaz níže.)</p>
