@@ -1,0 +1,1 @@
+# SWA-Prodej-soukrom-ch-ostrov-
