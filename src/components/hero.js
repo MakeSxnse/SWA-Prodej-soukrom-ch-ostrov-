@@ -12,7 +12,7 @@ export default function Hero() {
     }, []);
 
     return (
-        <div className="relative flex min-h-screen flex-col items-center justify-center overflow-hidden bg-[#000]">
+        <div className="relative flex min-h-screen flex-col items-center justify-center overflow-hidden bg-[#000] pt-[80px]">
             <div
                 className={`absolute inset-0 transition-transform duration-[4000ms] ease-out brightness-75 ${mounted ? "scale-100" : "scale-110"
                     }`}

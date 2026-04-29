@@ -40,14 +40,13 @@ export default function Navbar() {
   return (
     <>
       <nav
-        className={`fixed top-0 w-full z-50 transition-all duration-500 border-b ${scrolled || isMenuOpen
-            ? "bg-white border-zinc-200 py-0 shadow-sm"
-            : "bg-transparent border-transparent py-4"
+        className={`fixed top-0 w-full z-50 h-[80px] transition-colors duration-500 border-b ${scrolled || isMenuOpen
+            ? "bg-zinc-50 border-zinc-200 shadow-sm"
+            : "bg-transparent border-transparent"
           }`}
       >
         <div
-          className={`w-full px-6 md:px-[48px] transition-all duration-500 ${scrolled ? "h-[80px]" : "h-[112px]"
-            } flex items-center justify-between`}
+          className="w-full px-6 md:px-[48px] h-full flex items-center justify-between"
         >
           {/* Logo - Left */}
           <div className="flex-1 flex justify-start">
@@ -74,17 +73,7 @@ export default function Navbar() {
             ))}
           </div>
 
-          {/* Button - Right (Desktop) */}
-          <div className="hidden md:flex flex-1 justify-end">
-            <button
-              className={`px-8 py-3 rounded-none text-[10px] font-medium transition-all duration-500 uppercase tracking-widest font-sans border ${scrolled
-                  ? "bg-[#001B3A] text-white border-[#001B3A] hover:bg-transparent hover:text-[#001B3A]"
-                  : "bg-white/10 text-white border-white/30 backdrop-blur-md hover:bg-white hover:text-[#001B3A]"
-                }`}
-            >
-              POPTAT
-            </button>
-          </div>
+
 
           {/* Hamburger Icon (Mobile) */}
           <button

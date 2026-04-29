@@ -1,6 +1,6 @@
 export default function Proces() {
     return (
-        <div className="w-full bg-white py-24 md:py-32">
+        <div className="w-full bg-zinc-50 py-24 md:py-32">
             <div className="mx-[5%] flex flex-col items-center text-center gap-12">
                 <div className="flex flex-col gap-6 max-w-3xl">
                     <h2 className="text-[0.9rem] font-sans text-[#785A1A] tracking-[0.3em] font-medium uppercase">
